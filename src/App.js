@@ -4,6 +4,7 @@ import ProjectShow from './Component/Projects/ProjectShow';
 import Reactprojectshow from './Component/Projects/Reactprojectshow';
 import Header from './Component/Header/Header';
 import Bioinfo from './Component/BioInfo/Bioinfo';
+import Skill from './Component/Skill/Skill';
 
 
 
@@ -17,7 +18,7 @@ function App() {
     <ProjectShow></ProjectShow>
    <Reactprojectshow></Reactprojectshow>
     </div>
-    
+    <Skill></Skill>
    </div>
   );
 }
