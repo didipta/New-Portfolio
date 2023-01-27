@@ -104,7 +104,8 @@ const Skill = () => {
         }
     ]
     return (
-        <div className="flex flex-col gap-5 mb-5">
+        <div className="flex flex-col gap-5 mb-5"  data-aos="fade-up"
+        data-aos-anchor-placement="bottom-bottom">
             <div>
             <div className="flex justify-center items-center gap-3 mb-5">
             <img src={program} alt="" className="w-10"></img>
