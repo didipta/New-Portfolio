@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.b6f79ab5.css",
-    "main.js": "/static/js/main.5e4d8c60.js",
+    "main.js": "/static/js/main.c6894095.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/php.png": "/static/media/php.57268131e97f0878949f.png",
     "static/media/preloader.gif": "/static/media/preloader.49bbbe44e5b829dd1e8a.gif",
     "static/media/loading.gif": "/static/media/loading.39fbca23035356cb8a48.gif",
     "static/media/Aiub.png": "/static/media/Aiub.827cf1a5cbdb90c9fa47.png",
+    "static/media/Dipta saha Resume.pdf": "/static/media/Dipta saha Resume.c7f51ad3f748793563db.pdf",
     "static/media/Live.png": "/static/media/Live.19d2fd159453242c9669.png",
     "static/media/react.png": "/static/media/react.81ed438b18e24116794d.png",
     "static/media/hero4.png": "/static/media/hero4.8ec8bb3af96d9c9350d2.png",
@@ -33,11 +34,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.b6f79ab5.css.map": "/static/css/main.b6f79ab5.css.map",
-    "main.5e4d8c60.js.map": "/static/js/main.5e4d8c60.js.map",
+    "main.c6894095.js.map": "/static/js/main.c6894095.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6f79ab5.css",
-    "static/js/main.5e4d8c60.js"
+    "static/js/main.c6894095.js"
   ]
 }
