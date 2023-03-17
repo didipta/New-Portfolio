@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e43c832b.css",
-    "main.js": "/static/js/main.29919c7c.js",
+    "main.css": "/static/css/main.9f9cd8dc.css",
+    "main.js": "/static/js/main.dc69521f.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/php.png": "/static/media/php.57268131e97f0878949f.png",
     "static/media/loading.gif": "/static/media/loading.39fbca23035356cb8a48.gif",
@@ -21,7 +21,6 @@
     "static/media/fb.webp": "/static/media/fb.18e82e390341ff4f42b0.webp",
     "static/media/message-icon-png-17.png": "/static/media/message-icon-png-17.52609c68e8e701d47220.png",
     "static/media/laravel.png": "/static/media/laravel.279e3fcb19d440713887.png",
-    "static/media/bgimg2.jpg": "/static/media/bgimg2.9be56f66aae173a89d8f.jpg",
     "static/media/spring.png": "/static/media/spring.953ee24309fa38748981.png",
     "static/media/github.png": "/static/media/github.a719acd1504883d9d58a.png",
     "static/media/contact.png": "/static/media/contact.3cd17e8fd00bb42fdb27.png",
@@ -34,12 +33,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.e43c832b.css.map": "/static/css/main.e43c832b.css.map",
-    "main.29919c7c.js.map": "/static/js/main.29919c7c.js.map",
+    "main.9f9cd8dc.css.map": "/static/css/main.9f9cd8dc.css.map",
+    "main.dc69521f.js.map": "/static/js/main.dc69521f.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e43c832b.css",
-    "static/js/main.29919c7c.js"
+    "static/css/main.9f9cd8dc.css",
+    "static/js/main.dc69521f.js"
   ]
 }
